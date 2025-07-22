@@ -909,3 +909,70 @@ For any suggestions or contributions, feel free to connect with me on [LinkedIn]
 - [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
 - [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
+
+
+
+# CTF-Resources
+
+A list of resources related to CTF (Capture the Flag contests).  
+Inspiration and partially copied from [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+
+---
+
+## 🧰 CTF Frameworks
+
+- OWASP CTF  
+- AppJailLauncher  
+- Attack Defense CTF Framework  
+- Wrath CTF Framework  
+- PicoCTF Platform  
+- CTF  
+- PACTF  
+- INShAck 2017  
+- PyChallFactory  
+- Scorebot  
+- PicoCTF Platform 2  
+- OpenCTF  
+- NightShade  
+- Root the Box  
+- HackTheArch  
+- Puzzle Hero  
+- iCTF Framework  
+- LibCTF  
+- CTFd  
+- CTF Framework  
+- Mellivora  
+- collabCTF  
+- FBCTF  
+
+---
+
+## 🛠️ CTF Tools
+
+- CTF Tools  
+- pwntools  
+- Python3 pwntools  
+
+---
+
+## 📚 CTF Learning Resources
+
+- [ISIS Lab Project Ideas](https://github.com/isislab/Project-Ideas/wiki)  
+- [CTF Resources GitHub](http://ctfs.github.io/resources/)  
+- [Trail of Bits CTF Guide](https://trailofbits.github.io/ctf/)  
+- [Endgame - How to Get Started in CTF](https://www.endgame.com/blog/technical-blog/how-get-started-ctf)  
+- [Null Byte](https://null-byte.wonderhowto.com/)  
+- [Infosec Institute - Tools & Resources](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/)  
+- [captf.com Practice CTFs](http://captf.com/practice-ctf/)  
+- [CTF365](https://ctf365.com/)  
+- [Exploit Exercises](https://exploit-exercises.com/)  
+- [PicoCTF](https://picoctf.com/)  
+- [OverTheWire Wargames](http://overthewire.org/wargames/)  
+- [KitCTF Getting Started](https://kitctf.de/learning/getting-started)  
+- [Medium: Learning Resources by @a.hilton83](https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd)  
+- [EasyCTF](https://www.easyctf.com/)  
+- [TunnelsUP Hacker Challenges](https://www.tunnelsup.com/hacker-challenges/)  
+- [CTF.tn](http://ctf.tn/)  
+- [Root-Me CTFs](https://www.root-me.org/en/Capture-The-Flag/)  
+- [SmashTheStack](http://smashthestack.org/)  
+- [Microcorruption](https://microcorruption.com/login)  
